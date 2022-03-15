@@ -1,7 +1,15 @@
 1
 
+<<<<<<< HEAD
 2
 
 R3
 
 R4
+=======
+L2
+
+3
+
+L4
+>>>>>>> ab16fdd9edf44eddb90946efcbfd7d94ca1d5d94
